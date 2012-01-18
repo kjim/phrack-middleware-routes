@@ -1,0 +1,3 @@
+[submodule "vendor/phrack"]
+	path = vendor/phrack
+	url = git://github.com/kjim/phrack.git
